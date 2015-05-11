@@ -1,0 +1,3 @@
+This is an experimental repo for C++ code
+Right now (5/10/15) it only works with .wav files sampled
+at 32 bits per sample
